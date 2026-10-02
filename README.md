@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Cristhian&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Platform%20%26%20Distributed%20Systems&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Cristhian&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Platform%20%26%20Distributed%20Systems&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Cristhian — Computer Engineer, Platform and Distributed Systems" />
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Platform+%2F+Distributed+Systems+Engineer;Kafka+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Java+%E2%80%A2+Scala+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building+gifio.app" alt="Typing SVG" />
+<a href="https://gifio.app">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Platform+%2F+Distributed+Systems+Engineer;Kafka+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Java+%E2%80%A2+Scala+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building+gifio.app" alt="Senior platform and distributed systems engineer working with Kafka, AWS, Kubernetes, and observability; building gifio.app" />
 </a>
 
 </div>
@@ -12,42 +12,38 @@
 
 ## About
 
-Computer engineer working as a senior platform / distributed systems engineer. I build the boring infrastructure that stays up at 3 AM — Kafka pipelines pushing millions of events/sec, multi-tenant EKS, observability stacks, and the automation that keeps humans out of the incident path. Comfortable from broker internals to product UI.
+I'm Cristhian, a computer engineer specializing in platform engineering and distributed systems. I work on Kafka infrastructure, AWS and Kubernetes platforms, and observability, with a focus on reliability and practical automation.
 
-```yaml
-role:       Senior Platform / Distributed Systems Engineer
-focus:      Kafka • AWS • Kubernetes • Observability • DX
-languages:  Java • Scala • Python • TypeScript
-building:   gifio.app
-mindset:    SLOs over vibes • root cause over restart
-```
+I also build tools that make complex workflows easier to use, from infrastructure utilities to [gifio.app](https://gifio.app), a browser-based GIF editor. My work spans backend systems, operational tooling, and product interfaces.
 
 ## Core Expertise
 
 - **Event Streaming** — Kafka cluster operations, MirrorMaker, Schema Registry, Connect, Streams, partition strategy, consumer-lag SLOs
-- **Cloud Platforms** — AWS (EKS, MSK, IAM, VPC, S3, Lambda), Terraform, IaC at scale
-- **Kubernetes** — EKS multi-tenant clusters, Helm, operators, ArgoCD, autoscaling, cost governance
+- **Cloud Platforms** — AWS (EKS, MSK, IAM, VPC, S3, Lambda), Terraform, infrastructure as code
+- **Kubernetes** — Multi-tenant EKS clusters, Helm, operators, Argo CD, autoscaling, cost governance
 - **Observability** — Grafana, Prometheus, Splunk, Datadog, OpenTelemetry, SLO-driven alerting
-- **Reliability** — Capacity planning, chaos testing, incident command, postmortem authorship
-- **Developer Tooling** — AI-assisted workflows, internal CLIs, golden paths for product teams
+- **Reliability** — Capacity planning, chaos testing, incident response, postmortems
+- **Developer Tooling** — AI-assisted workflows, command-line utilities, self-service workflows for product teams
 
-## Featured Systems
+## Featured Projects
 
-- **Multi-region Kafka platform** — Tens of thousands of partitions, cross-region replication, sub-second consumer lag SLOs
-- **EKS platform-as-a-product** — Self-service namespaces, policy-as-code (OPA/Kyverno), automated cost attribution
-- **Unified observability pipeline** — Metrics/logs/traces routed across Grafana, Splunk, Datadog with cardinality controls
-- **[gifio.app](https://gifio.app) / GifAlchemy** — Client-side GIF editor (Next.js 15, React 19, WebAssembly, TypeScript)
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[GifIO](https://gifio.app)** | Browser-based GIF editing with a client-side processing workflow | Next.js, React, TypeScript, WebAssembly |
+| **[Kafka utilities](https://github.com/hawxxx/kafka)** | Kafka and Amazon MSK partition rebalancing, rollback, and leader verification | Bash, Kafka CLI |
+| **[DocumentDB utilities](https://github.com/hawxxx/docdb)** | Amazon DocumentDB segmentation and data comparison | Python, PyMongo |
+| **[Cyphr](https://github.com/hawxxx/Cyphr)** | A local, encrypted Firefox TOTP vault with domain autofill | JavaScript, Web Crypto API |
 
-## Now
+## Current Focus
 
-- AI-assisted developer tooling — agents owning real on-call and platform tasks, not demos
-- Kafka tiered storage + cost-aware partition rebalancing
-- Cutting observability cost without losing signal
-- Shipping [gifio.app](https://gifio.app) as a real product
+- Building AI-assisted workflows for platform engineering and operational tasks
+- Exploring Kafka tiered storage and cost-aware partition rebalancing
+- Reducing observability costs while preserving useful diagnostic data
+- Developing [GifIO](https://gifio.app) and maintaining the tools linked above
 
 ## Open Source
 
-I contribute upstream when production work surfaces real bugs or gaps — Kafka ecosystem, Kubernetes operators, observability tooling. Reproductions and root-cause issues over drive-by PRs.
+I share practical tools for infrastructure and everyday workflows. When investigating bugs, I focus on clear reproductions, root-cause analysis, and fixes that others can verify.
 
 ---
 
@@ -55,7 +51,7 @@ I contribute upstream when production work surfaces real bugs or gaps — Kafka 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kafka,aws,kubernetes,docker,terraform,grafana,prometheus,linux,bash,java,scala,python,typescript,nextjs,react,nodejs,postgres,redis,git,github" />
+<img src="https://skillicons.dev/icons?i=kafka,aws,kubernetes,docker,terraform,grafana,prometheus,linux,bash,java,scala,python,typescript,nextjs,react,nodejs,postgres,redis,git,github" alt="Technology stack: Kafka, AWS, Kubernetes, Docker, Terraform, Grafana, Prometheus, Linux, Bash, Java, Scala, Python, TypeScript, Next.js, React, Node.js, PostgreSQL, Redis, Git, and GitHub" />
 
 </div>
 
@@ -63,16 +59,18 @@ I contribute upstream when production work surfaces real bugs or gaps — Kafka 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hawxxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hawxxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics for hawxxx" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages across hawxxx's public repositories" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hawxxx&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hawxxx&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for hawxxx" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hawxxx&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=ffffff&hide_border=true&area=true" width="98%" />
+<a href="https://github.com/hawxxx?tab=overview">
+<img src="https://ghchart.rshah.org/1F6FEB/hawxxx" width="98%" alt="GitHub contribution calendar for hawxxx" />
+</a>
 
 </div>
 
@@ -80,10 +78,10 @@ I contribute upstream when production work surfaces real bugs or gaps — Kafka 
 
 - GitHub — [@hawxxx](https://github.com/hawxxx)
 - Project — [gifio.app](https://gifio.app)
-- Email — cristhianhack@gmail.com
+- Email — [cristhianhack@gmail.com](mailto:cristhianhack@gmail.com)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="" />
 
 </div>
