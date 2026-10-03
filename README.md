@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hawxxx/hawxxx/05c4025a0ce4004bfdd5966b2b793e3a7df16fe6/assets/header.svg" width="100%" alt="Cristhian — Platform Engineering, Distributed Systems, GPU and AI" />
+<img src="https://raw.githubusercontent.com/hawxxx/hawxxx/c1a4cd0b9f6012422cfcaa14f834e60c775b2225/assets/header.svg" width="100%" alt="Cristhian — Platform Engineering, Distributed Systems, GPU and AI" />
 
 <a href="https://gifio.app">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Platform+%2F+Distributed+Systems+Engineer;Kafka+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Java+%E2%80%A2+Scala+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building+gifio.app" alt="Senior platform and distributed systems engineer working with Kafka, AWS, Kubernetes, and observability; building gifio.app" />
