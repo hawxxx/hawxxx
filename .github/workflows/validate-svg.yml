@@ -1,0 +1,23 @@
+name: Validate profile SVGs
+on:
+  push:
+    branches: [main]
+    paths: ['assets/**', '.github/workflows/validate-svg.yml']
+  pull_request:
+    paths: ['assets/**', '.github/workflows/validate-svg.yml']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check SVG XML structure
+        run: |
+          python3 - <<'PY'
+          import pathlib
+          import xml.etree.ElementTree as ET
+          for path in pathlib.Path('assets').rglob('*.svg'):
+              ET.parse(path)
+              print(f'Valid SVG: {path}')
+          PY
