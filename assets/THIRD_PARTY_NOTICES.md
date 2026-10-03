@@ -1,5 +1,7 @@
 # Banner logo attribution
 
+The Android logo is from [Simple Icons](https://github.com/simple-icons/simple-icons), distributed under CC0-1.0. Android is a trademark of Google LLC.
+
 Technology logos are adapted from [Skill Icons](https://github.com/tandpfun/skill-icons). Product names and logos belong to their respective owners.
 
 MIT License
