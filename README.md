@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Cristhian&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Platform%20%26%20Distributed%20Systems&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Cristhian — Computer Engineer, Platform and Distributed Systems" />
+<img src="https://raw.githubusercontent.com/hawxxx/hawxxx/main/assets/header.svg" width="100%" alt="Cristhian — Computer Engineer, Platform and Distributed Systems" />
 
 <a href="https://gifio.app">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Platform+%2F+Distributed+Systems+Engineer;Kafka+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Java+%E2%80%A2+Scala+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building+gifio.app" alt="Senior platform and distributed systems engineer working with Kafka, AWS, Kubernetes, and observability; building gifio.app" />
