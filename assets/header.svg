@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title description">
-  <title id="title">Cristhian — Platform, Distributed Systems, GPU and AI</title>
+  <title id="title">Cristhian Gabriel — Platform, Distributed Systems, GPU and AI</title>
   <desc id="description">A dark banner with technology logos, a GPU chip, and animated platform engineering, distributed systems, GPU and AI specialties.</desc>
   <defs>
     <clipPath id="frame"><rect x="1" y="1" width="998" height="218" rx="12" /></clipPath>
@@ -84,7 +84,7 @@
     <rect x="1" y="1" width="998" height="218" fill="url(#fade)" />
   </g>
   <text x="500" y="63" fill="#8b99ab" font-size="12" letter-spacing="3" text-anchor="middle">COMPUTER ENGINEER</text>
-  <text x="500" y="106" fill="#f0f6fc" font-size="42" font-weight="700" letter-spacing="-1" text-anchor="middle">Cristhian</text>
+  <text x="500" y="106" fill="#f0f6fc" font-size="42" font-weight="700" letter-spacing="-1" text-anchor="middle">Cristhian Gabriel</text>
   <g fill="#b8d7ff">
     <text class="role" x="500" y="143">Platform Engineering</text>
     <text class="role second" x="500" y="143">Distributed Systems</text>
