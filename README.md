@@ -30,6 +30,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 | Project | What it does | Built with |
 | --- | --- | --- |
 | **[GifIO](https://gifio.app)** | Browser-based GIF editing with a client-side processing workflow | Next.js, React, TypeScript, WebAssembly |
+| **[Gifium](https://github.com/hawxxx/gifium)** | Lightweight GIF optimization library and CLI for Windows, Linux, and macOS, with precise frame timing and quality controls | TypeScript, Node.js, WebAssembly |
 | **[Kafka utilities](https://github.com/hawxxx/kafka)** | Kafka and Amazon MSK partition rebalancing, rollback, and leader verification | Bash, Kafka CLI |
 | **[DocumentDB utilities](https://github.com/hawxxx/docdb)** | Amazon DocumentDB segmentation and data comparison | Python, PyMongo |
 | **[Cyphr](https://github.com/hawxxx/Cyphr)** | A local, encrypted Firefox TOTP vault with domain autofill | JavaScript, Web Crypto API |
