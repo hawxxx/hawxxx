@@ -69,7 +69,11 @@ I share practical tools for infrastructure and everyday workflows. When investig
 <br/>
 
 <a href="https://github.com/hawxxx?tab=overview">
-<img src="https://ghchart.rshah.org/1F6FEB/hawxxx" width="98%" alt="GitHub contribution calendar for hawxxx" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawxxx/hawxxx/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawxxx/hawxxx/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/hawxxx/hawxxx/output/pacman-contribution-graph-dark.svg" width="98%" alt="Pac-Man animation of hawxxx's GitHub contributions" />
+</picture>
 </a>
 
 </div>
