@@ -33,6 +33,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 | **[Gifium](https://github.com/hawxxx/gifium)** | Lightweight GIF optimization library and CLI for Windows, Linux, and macOS, with precise frame timing and quality controls | TypeScript, Node.js, WebAssembly |
 | **[Kaflux](https://github.com/hawxxx/kaflux)** | Kafka operations console for cluster inventory, message exploration, monitoring, and audited rebalance workflows | Go, React, TypeScript, PostgreSQL |
 | **[MQTitan](https://github.com/hawxxx/mqtitan)** | MQTT and EMQX load testing with a CLI, live dashboards, adjustable traffic, and distributed workers | Go, React, TypeScript, SQLite |
+| **[GPUP](https://github.com/hawxxx/gpup)** | Local inference observability and benchmarking with GPU telemetry, a live dashboard, and run comparisons | Go, React, TypeScript, SQLite |
 | **[Kafka utilities](https://github.com/hawxxx/kafka)** | Kafka and Amazon MSK partition rebalancing, rollback, and leader verification | Bash, Kafka CLI |
 | **[DocumentDB utilities](https://github.com/hawxxx/docdb)** | Amazon DocumentDB segmentation and data comparison | Python, PyMongo |
 | **[Cyphr](https://github.com/hawxxx/Cyphr)** | A local, encrypted Firefox TOTP vault with domain autofill | JavaScript, Web Crypto API |
