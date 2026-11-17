@@ -49,7 +49,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 >
 > <small>Tauri 2 · WebCodecs · TypeScript · [kapclip.vercel.app](https://kapclip.vercel.app)</small><br clear="right"/>
 
-> <img align="right" width="45%" src="./assets/previews/gifium.gif" alt="Terminal running gifium info and optimize, saving about 80 percent on a GIF"/>
+> <img align="right" width="55%" src="./assets/previews/gifium.gif" alt="Terminal running gifium info and optimize, saving about 80 percent on a GIF"/>
 >
 > ### [Gifium](https://github.com/hawxxx/gifium)
 >
@@ -57,7 +57,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 >
 > <small>TypeScript · Node.js · WebAssembly</small><br clear="right"/>
 
-> <img align="right" width="50%" src="./assets/previews/kaflux.gif" alt="Kaflux console: partition rebalancing, then cluster overview, topics, brokers and live-tailing messages"/>
+> <img align="right" width="55%" src="./assets/previews/kaflux.gif" alt="Kaflux console: partition rebalancing, then cluster overview, topics, brokers and live-tailing messages"/>
 >
 > ### [Kaflux](https://github.com/hawxxx/kaflux)
 >
@@ -65,7 +65,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 >
 > <small>Go · React · TypeScript · PostgreSQL</small><br clear="right"/>
 
-> <img align="right" width="45%" src="./assets/previews/mqtitan.gif" alt="MQTitan live dashboard, test runner, latency and comparison views"/>
+> <img align="right" width="55%" src="./assets/previews/mqtitan.gif" alt="MQTitan live dashboard, test runner, latency and comparison views"/>
 >
 > ### [MQTitan](https://github.com/hawxxx/mqtitan)
 >
@@ -73,7 +73,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 >
 > <small>Go · React · TypeScript · SQLite</small><br clear="right"/>
 
-> <img align="right" width="45%" src="./assets/previews/gpup.gif" alt="GPUP dashboard with overview, benchmarks, GPUs and requests"/>
+> <img align="right" width="55%" src="./assets/previews/gpup.gif" alt="GPUP dashboard with overview, benchmarks, GPUs and requests"/>
 >
 > ### [GPUP](https://github.com/hawxxx/gpup)
 >
