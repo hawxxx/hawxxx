@@ -41,7 +41,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 >
 > <small>Next.js · React · TypeScript · WebAssembly · [gifio.app](https://gifio.app)</small><br clear="right"/>
 
-> <img align="right" width="45%" src="./assets/previews/kapclip.gif" alt="Kapclip app recordings: GIF selection with cinematic zoom, then one-click motion tracking on a football player and a portrait"/>
+> <img align="right" width="55%" src="./assets/previews/kapclip.gif" alt="Kapclip editor with projects loaded: design panel, preview with cinematic zoom, motion tracking, timeline and focus track"/>
 >
 > ### [Kapclip](https://kapclip.vercel.app)
 >
