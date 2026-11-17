@@ -12,6 +12,12 @@
 
 ## About
 
+<div align="center">
+
+<img src="./assets/terminal-intro.svg" alt="Terminal: Cristhian Gabriel, platform and distributed systems engineer working with Kafka, AWS, Kubernetes and observability, building gifio.app" width="800"/>
+
+</div>
+
 I'm Cristhian, a computer engineer specializing in platform engineering and distributed systems. I work on Kafka infrastructure, AWS and Kubernetes platforms, and observability, with a focus on reliability and practical automation.
 
 I also build tools that make complex workflows easier to use, from infrastructure utilities to [gifio.app](https://gifio.app), a browser-based GIF editor. My work spans backend systems, operational tooling, and product interfaces.
@@ -27,13 +33,58 @@ I also build tools that make complex workflows easier to use, from infrastructur
 
 ## Featured Projects
 
+> <img align="right" width="45%" src="./assets/previews/gifio.gif" alt="GifIO editor with resize, crop, optimize and text tools"/>
+>
+> ### [GifIO](https://gifio.app)
+>
+> Browser-based GIF editing with a client-side processing workflow: import, trim, add overlays, and export without uploading your media.
+>
+> <small>Next.js · React · TypeScript · WebAssembly · [gifio.app](https://gifio.app)</small><br clear="right"/>
+
+> <img align="right" width="45%" src="./assets/previews/kapclip.gif" alt="Kapclip landing page showing auto-zoom, webcam, captions and export features"/>
+>
+> ### [Kapclip](https://kapclip.vercel.app)
+>
+> Windows screen recorder and cinematic editor: zooms that follow your clicks, webcam shapes, local captions, and full-speed exports.
+>
+> <small>Tauri 2 · WebCodecs · TypeScript · [kapclip.vercel.app](https://kapclip.vercel.app)</small><br clear="right"/>
+
+> <img align="right" width="45%" src="./assets/previews/gifium.gif" alt="Terminal running gifium info and optimize, saving about 80 percent on a GIF"/>
+>
+> ### [Gifium](https://github.com/hawxxx/gifium)
+>
+> Lightweight GIF optimization library and CLI for Windows, Linux, and macOS, with precise frame timing and one portable WebAssembly dependency.
+>
+> <small>TypeScript · Node.js · WebAssembly</small><br clear="right"/>
+
+> <img align="right" width="45%" src="./assets/previews/kaflux.gif" alt="Kaflux rebalancing Kafka partitions across brokers"/>
+>
+> ### [Kaflux](https://github.com/hawxxx/kaflux)
+>
+> Kafka operations console for cluster inventory, message exploration, monitoring, and audited rebalance workflows.
+>
+> <small>Go · React · TypeScript · PostgreSQL</small><br clear="right"/>
+
+> <img align="right" width="45%" src="./assets/previews/mqtitan.gif" alt="MQTitan live dashboard, test runner, latency and comparison views"/>
+>
+> ### [MQTitan](https://github.com/hawxxx/mqtitan)
+>
+> MQTT and EMQX load testing with a CLI, live dashboards, adjustable traffic, and distributed workers.
+>
+> <small>Go · React · TypeScript · SQLite</small><br clear="right"/>
+
+> <img align="right" width="45%" src="./assets/previews/gpup.gif" alt="GPUP dashboard with overview, benchmarks, GPUs and requests"/>
+>
+> ### [GPUP](https://github.com/hawxxx/gpup)
+>
+> Local inference observability and benchmarking with GPU telemetry, a live dashboard, and run comparisons.
+>
+> <small>Go · React · TypeScript · SQLite</small><br clear="right"/>
+
+### Utilities
+
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[GifIO](https://gifio.app)** | Browser-based GIF editing with a client-side processing workflow | Next.js, React, TypeScript, WebAssembly |
-| **[Gifium](https://github.com/hawxxx/gifium)** | Lightweight GIF optimization library and CLI for Windows, Linux, and macOS, with precise frame timing and quality controls | TypeScript, Node.js, WebAssembly |
-| **[Kaflux](https://github.com/hawxxx/kaflux)** | Kafka operations console for cluster inventory, message exploration, monitoring, and audited rebalance workflows | Go, React, TypeScript, PostgreSQL |
-| **[MQTitan](https://github.com/hawxxx/mqtitan)** | MQTT and EMQX load testing with a CLI, live dashboards, adjustable traffic, and distributed workers | Go, React, TypeScript, SQLite |
-| **[GPUP](https://github.com/hawxxx/gpup)** | Local inference observability and benchmarking with GPU telemetry, a live dashboard, and run comparisons | Go, React, TypeScript, SQLite |
 | **[Kafka utilities](https://github.com/hawxxx/kafka)** | Kafka and Amazon MSK partition rebalancing, rollback, and leader verification | Bash, Kafka CLI |
 | **[DocumentDB utilities](https://github.com/hawxxx/docdb)** | Amazon DocumentDB segmentation and data comparison | Python, PyMongo |
 | **[Cyphr](https://github.com/hawxxx/Cyphr)** | A local, encrypted Firefox TOTP vault with domain autofill | JavaScript, Web Crypto API |
