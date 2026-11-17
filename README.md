@@ -57,7 +57,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 >
 > <small>TypeScript · Node.js · WebAssembly</small><br clear="right"/>
 
-> <img align="right" width="45%" src="./assets/previews/kaflux.gif" alt="Kaflux rebalancing Kafka partitions across brokers"/>
+> <img align="right" width="50%" src="./assets/previews/kaflux.gif" alt="Kaflux console: partition rebalancing, then cluster overview, topics, brokers and live-tailing messages"/>
 >
 > ### [Kaflux](https://github.com/hawxxx/kaflux)
 >
