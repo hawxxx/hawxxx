@@ -41,15 +41,13 @@ I also build tools that make complex workflows easier to use, from infrastructur
 >
 > <small>Next.js · React · TypeScript · WebAssembly · [gifio.app](https://gifio.app)</small><br clear="right"/>
 
+> <img align="right" width="45%" src="./assets/previews/kapclip.gif" alt="Kapclip app recordings: GIF selection with cinematic zoom, then one-click motion tracking on a football player and a portrait"/>
+>
 > ### [Kapclip](https://kapclip.vercel.app)
 >
-> Windows screen recorder and cinematic editor: zooms that follow your clicks, one-click motion tracking, webcam shapes, local captions, and full-speed exports. Recorded in the app itself:
+> Windows screen recorder and cinematic editor: zooms that follow your clicks, one-click motion tracking, webcam shapes, local captions, and full-speed exports. Preview recorded in the app itself.
 >
-> <img width="32%" src="./assets/previews/kapclip-select.gif" alt="Kapclip project built from a screen recording of GifIO, with cinematic zoom and an animated border"/>
-> <img width="32%" src="./assets/previews/kapclip-track-messi.gif" alt="Kapclip motion tracking following a football player after one click"/>
-> <img width="32%" src="./assets/previews/kapclip-track-portrait.gif" alt="Kapclip motion tracking following a subject with an annotation"/>
->
-> <small>Tauri 2 · WebCodecs · TypeScript · [kapclip.vercel.app](https://kapclip.vercel.app)</small>
+> <small>Tauri 2 · WebCodecs · TypeScript · [kapclip.vercel.app](https://kapclip.vercel.app)</small><br clear="right"/>
 
 > <img align="right" width="45%" src="./assets/previews/gifium.gif" alt="Terminal running gifium info and optimize, saving about 80 percent on a GIF"/>
 >
