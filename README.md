@@ -33,7 +33,7 @@ I also build tools that make complex workflows easier to use, from infrastructur
 
 ## Featured Projects
 
-> <img align="right" width="45%" src="./assets/previews/gifio.gif" alt="GifIO editor with resize, crop, optimize and text tools"/>
+> <img align="right" width="55%" src="./assets/previews/gifio.gif" alt="GifIO editor with projects loaded: GIF browser, motion tracking dialog, timeline and inspector controls"/>
 >
 > ### [GifIO](https://gifio.app)
 >
