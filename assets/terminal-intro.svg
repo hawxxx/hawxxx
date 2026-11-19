@@ -1,5 +1,5 @@
 <svg width="800" height="425" viewBox="0 0 800 425" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <title id="title">Cristhian Gabriel: platform and distributed systems engineer working with Kafka, AWS, Kubernetes, observability and AI-assisted tooling, building gifio.app</title>
+  <title id="title">Cristhian Gabriel: platform and cloud infrastructure engineer working with Kafka, AWS, Kubernetes, observability and AI-assisted tooling, building gifio.app</title>
   <rect width="800" height="425" rx="12" fill="#0d1117"/>
   <rect x="0.5" y="0.5" width="799" height="424" rx="12" fill="none" stroke="#30363d"/>
   <path d="M0,40 V12 Q0,0 12,0 H788 Q800,0 800,12 V40 Z" fill="#161b22"/>
@@ -10,7 +10,7 @@
   <text x="400" y="25" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,monospace" font-size="13" fill="#8b949e" text-anchor="middle">cristhian@dev: ~</text>
   <g font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,monospace" font-size="14">
     <text x="24" y="75" opacity="0"><tspan fill="#7ee787">~</tspan><tspan fill="#8b949e"> $ </tspan><tspan fill="#e6edf3">whoami</tspan><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.01s" fill="freeze"/></text>
-    <text x="24" y="100" opacity="0"><tspan fill="#79c0ff">cristhian gabriel · platform and distributed systems engineer</tspan><animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.01s" fill="freeze"/></text>
+    <text x="24" y="100" opacity="0"><tspan fill="#79c0ff">cristhian gabriel · platform and cloud infrastructure engineer</tspan><animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.01s" fill="freeze"/></text>
     <text x="24" y="135" opacity="0"><tspan fill="#7ee787">~</tspan><tspan fill="#8b949e"> $ </tspan><tspan fill="#e6edf3">cat </tspan><tspan fill="#a5d6ff">focus.txt</tspan><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.01s" fill="freeze"/></text>
     <text x="24" y="160" opacity="0"><tspan fill="#e6edf3">Kafka, AWS and Kubernetes platforms with a focus on </tspan><tspan fill="#7ee787" font-weight="bold">reliability</tspan><animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.01s" fill="freeze"/></text>
     <text x="24" y="185" opacity="0"><tspan fill="#e6edf3">observability · capacity planning · practical </tspan><tspan fill="#ff7b72">automation</tspan><animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.01s" fill="freeze"/></text>

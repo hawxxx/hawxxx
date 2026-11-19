@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hawxxx/hawxxx/c9ac2da3bae7f7dabead5f60b2fb4113f8d8dcb5/assets/header.svg" width="100%" alt="Cristhian Gabriel — Platform Engineering, Distributed Systems, GPU and AI" />
+<img src="https://raw.githubusercontent.com/hawxxx/hawxxx/c9ac2da3bae7f7dabead5f60b2fb4113f8d8dcb5/assets/header.svg" width="100%" alt="Cristhian Gabriel — Platform Engineering, Cloud Infrastructure, GPU and AI" />
 
 <a href="https://gifio.app">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Platform+%2F+Distributed+Systems+Engineer;Kafka+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Java+%E2%80%A2+Scala+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building+gifio.app" alt="Senior platform and distributed systems engineer working with Kafka, AWS, Kubernetes, and observability; building gifio.app" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Platform+%2F+Cloud+Infrastructure+Engineer;Kafka+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Java+%E2%80%A2+Scala+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building+gifio.app" alt="Senior platform and cloud infrastructure engineer working with Kafka, AWS, Kubernetes, and observability; building gifio.app" />
 </a>
 
 </div>
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-<img src="./assets/terminal-intro.svg" alt="Terminal: Cristhian Gabriel, platform and distributed systems engineer working with Kafka, AWS, Kubernetes and observability, building gifio.app" width="800"/>
+<img src="./assets/terminal-intro.svg" alt="Terminal: Cristhian Gabriel, platform and cloud infrastructure engineer working with Kafka, AWS, Kubernetes and observability, building gifio.app" width="800"/>
 
 </div>
 
-I'm Cristhian, a computer engineer specializing in platform engineering and distributed systems. I work on Kafka infrastructure, AWS and Kubernetes platforms, and observability, with a focus on reliability and practical automation.
+I'm Cristhian, a computer engineer specializing in platform engineering and cloud infrastructure. I work on Kafka infrastructure, AWS and Kubernetes platforms, and observability, with a focus on reliability and practical automation.
 
 I also build tools that make complex workflows easier to use, from infrastructure utilities to [gifio.app](https://gifio.app), a browser-based GIF editor. My work spans backend systems, operational tooling, and product interfaces.
 
