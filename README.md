@@ -43,11 +43,11 @@ I also build tools that make complex workflows easier to use, from infrastructur
 
 > <img align="right" width="55%" src="./assets/previews/kapclip.gif" alt="Kapclip editor with projects loaded: design panel, preview with cinematic zoom, motion tracking, timeline and focus track"/>
 >
-> ### [Kapclip](https://kapclip.vercel.app)
+> ### [Kapclip](https://www.kapclip.com)
 >
 > Windows screen recorder and cinematic editor: zooms that follow your clicks, one-click motion tracking, webcam shapes, local captions, and full-speed exports. Preview recorded in the app itself.
 >
-> <small>Tauri 2 · WebCodecs · TypeScript · [kapclip.vercel.app](https://kapclip.vercel.app)</small><br clear="right"/>
+> <small>Tauri 2 · WebCodecs · TypeScript · [kapclip.com](https://www.kapclip.com)</small><br clear="right"/>
 
 > <img align="right" width="55%" src="./assets/previews/gifium.gif" alt="Terminal running gifium info and optimize, saving about 80 percent on a GIF"/>
 >
